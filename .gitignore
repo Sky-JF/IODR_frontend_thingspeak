@@ -1,0 +1,4 @@
+__pycache__/
+output.log
+Procfile
+.DS_Store
